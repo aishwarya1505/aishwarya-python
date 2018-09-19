@@ -9,3 +9,13 @@ while True:
            exit()
       else:
            print("enter a valied alphabet")
+
+      
+      
+  OUTPUT:
+      press r to roll and q to quitr
+      1
+      press r to roll and q to quita
+      enter a valied alphabet
+      press r to roll and q to quitq
+      bye!
