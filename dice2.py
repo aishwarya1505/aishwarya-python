@@ -7,3 +7,27 @@ while True:
 	else:
 		print("bye!")
 		exit()
+		----------
+		output
+		press r to roll and q to quitr
+4
+press r to roll and q to quitr
+4
+press r to roll and q to quitr
+4
+press r to roll and q to quitr
+2
+press r to roll and q to quitr
+3
+press r to roll and q to quitr
+3
+press r to roll and q to quitr
+5
+press r to roll and q to quitr
+4
+press r to roll and q to quitr
+2
+press r to roll and q to quitr
+1
+press r to roll and q to quitq
+bye!
