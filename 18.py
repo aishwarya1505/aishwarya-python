@@ -9,3 +9,5 @@ def great(name):
 n=input("what is your name? ")
 
 greet(n)
+
+what is your name? aishwarya
