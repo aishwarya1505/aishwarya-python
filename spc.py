@@ -10,3 +10,42 @@ while(1):
    print("computer win")
   else:
    print("player win")
+   
+    
+    output
+    cl316@soetcse:~/aishwarya$ python3 spc.py
+enter'R','P,'S'R
+computer win
+cl316@soetcse:~/aishwarya$ python3 spc.py
+enter'R','P,'S'R
+computer P
+computer win
+cl316@soetcse:~/aishwarya$ python3 spc.py
+enter'R','P,'S'S
+computer P
+cl316@soetcse:~/aishwarya$ python3 spc.py
+enter'R','P,'S'R
+computer R
+tie
+cl316@soetcse:~/aishwarya$ python3 spc.py
+enter'R','P,'S'P
+computer S
+player win
+cl316@soetcse:~/aishwarya$ python3 spc.py
+enter'R','P,'S'R
+computer R
+tie
+cl316@soetcse:~/aishwarya$ python3 spc.py
+enter'R','P,'S'S
+computer P
+player win
+cl316@soetcse:~/aishwarya$ python3 spc.py
+enter'R','P,'S'R
+computer P
+computer win
+cl316@soetcse:~/aishwarya$ python3 spc.py
+enter'R','P,'S'p
+computer P
+player win
+
+    
