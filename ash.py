@@ -9,3 +9,8 @@ s.login(myemail,password)
 message= "hi how are you"
 s.sendmail(mymail,recemail,message)
 s.quit()
+
+output-------------------------------------
+your email id:aaishwarya598@gmail.com
+Password: 
+reciver's email id:aaishwarya598@gmail.com
