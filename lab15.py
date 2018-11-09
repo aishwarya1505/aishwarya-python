@@ -45,3 +45,8 @@ if __name__ == '__main__':
     except KeyboardInterrupt:
         print("Measurement stopped by User")
         GPIO.cleanup()
+OUTPUT:
+    Measured Distance = 73.0 cm
+Measured Distance = 0.3 cm
+Measured Distance = 1167.7 cm
+Measured Distance = 345.5 cm
